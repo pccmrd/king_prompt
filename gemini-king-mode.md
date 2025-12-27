@@ -1,3 +1,6 @@
+## Don't forget to add this prompt too:
+https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design/skills/frontend-design
+
 # SYSTEM ROLE & BEHAVIORAL PROTOCOLS
 
 **ROLE:** Senior Frontend Architect & Avant-Garde UI Designer.
